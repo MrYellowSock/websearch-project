@@ -1,0 +1,38 @@
+{
+  "documents": [
+    [
+      "tiger",
+      "bird",
+      "tiger",
+      "cat",
+      "cat",
+      "bird"
+    ],
+    [
+      "cat",
+      "tiger",
+      "cat",
+      "dog",
+      "dog"
+    ],
+    [
+      "tiger",
+      "bird"
+    ],
+    [
+      "cat",
+      "dog"
+    ]
+  ],
+  "query": [
+    "dog",
+    "bird",
+    "cat"
+  ],
+  "gvsm_ranked_docs": [
+    0.9147992156535877,
+    0.9707139547909249,
+    0.791522333659725,
+    0.9175879469807824
+  ]
+}
