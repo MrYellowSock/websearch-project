@@ -1,92 +1,117 @@
 {
   "documents": [
     [
-      "tiger",
       "dog",
-      "dog",
-      "bird",
-      "bird",
-      "tiger"
-    ],
-    [
-      "tiger",
-      "dog",
-      "bird"
-    ],
-    [
-      "cat",
-      "tiger",
-      "bird",
-      "tiger",
-      "dog"
-    ],
-    [
-      "tiger",
-      "dog",
-      "cat",
-      "tiger",
-      "cat",
-      "bird",
-      "bird"
-    ],
-    [
-      "bird",
-      "bird",
-      "tiger",
-      "tiger",
-      "dog",
-      "cat",
       "cat"
     ],
     [
-      "bird",
-      "tiger",
-      "cat",
-      "cat",
-      "bird",
-      "tiger"
-    ],
-    [
-      "cat",
-      "tiger"
-    ],
-    [
-      "dog",
-      "tiger",
-      "tiger",
       "dog",
       "bird",
       "cat"
     ],
     [
       "bird",
+      "tiger",
+      "dog",
+      "bird",
+      "dog"
+    ],
+    [
+      "dog",
+      "tiger",
+      "cat",
+      "tiger",
+      "bird",
+      "cat",
+      "dog"
+    ],
+    [
+      "cat",
+      "bird",
+      "tiger"
+    ],
+    [
+      "cat",
+      "tiger",
+      "tiger",
+      "cat",
+      "bird",
       "dog"
     ],
     [
       "bird",
+      "tiger"
+    ],
+    [
+      "tiger",
+      "cat"
+    ],
+    [
+      "bird",
+      "dog",
+      "cat"
+    ],
+    [
+      "dog",
+      "tiger"
+    ],
+    [
+      "dog",
+      "dog",
       "cat",
+      "cat"
+    ],
+    [
+      "cat",
+      "tiger",
+      "dog",
+      "bird",
+      "cat",
+      "tiger",
+      "dog"
+    ],
+    [
+      "tiger",
       "cat",
       "bird"
+    ],
+    [
+      "cat",
+      "tiger",
+      "bird",
+      "cat",
+      "bird"
+    ],
+    [
+      "cat",
+      "tiger",
+      "dog",
+      "cat",
+      "bird",
+      "dog",
+      "tiger"
     ]
   ],
   "query": [
     "cat",
-    "dog",
     "tiger",
-    "bird",
-    "tiger",
-    "dog"
+    "bird"
   ],
   "gvsm_ranked_docs": [
-    0.9969478022685478,
-    0.9969478022685478,
-    0.9983781339156175,
-    0.9932986231901547,
-    0.9932986231901547,
-    0.9839251526051166,
-    0.9702579944616039,
-    1.0,
-    0.9868177492513731,
-    0.9620870366781116
+    0.8821148007842529,
+    0.9546844303687416,
+    0.962136450173737,
+    0.9696490380002722,
+    0.9999999999999998,
+    0.9867170372570635,
+    0.9856371472509005,
+    0.9805655364484707,
+    0.9546844303687416,
+    0.910521855177099,
+    0.8821148007842529,
+    0.9696490380002722,
+    0.9999999999999999,
+    0.996881329755339,
+    0.9696490380002722
   ]
 }

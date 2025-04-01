@@ -1,39 +1,139 @@
 {
   "documents": [
     [
-      "cat",
+      "dog",
+      "tiger",
       "tiger",
       "dog",
+      "bird",
+      "cat"
+    ],
+    [
       "cat",
+      "dog",
+      "tiger",
+      "cat",
+      "dog",
+      "bird",
+      "tiger"
+    ],
+    [
+      "tiger"
+    ],
+    [
       "dog"
     ],
     [
       "tiger",
+      "cat",
+      "bird",
+      "bird",
+      "dog",
+      "tiger",
+      "cat"
+    ],
+    [
+      "dog",
+      "bird",
+      "dog",
+      "tiger",
+      "cat",
+      "cat"
+    ],
+    [
+      "tiger",
+      "cat",
+      "tiger",
+      "bird",
+      "dog"
+    ],
+    [
+      "tiger",
+      "bird"
+    ],
+    [
+      "cat",
+      "dog",
+      "tiger",
+      "cat",
+      "bird"
+    ],
+    [
+      "dog",
+      "dog",
+      "tiger",
+      "tiger",
       "bird",
       "cat",
+      "cat"
+    ],
+    [
+      "dog",
+      "cat"
+    ],
+    [
       "cat",
+      "bird",
+      "tiger"
+    ],
+    [
+      "tiger",
+      "cat",
+      "tiger",
+      "bird",
+      "dog",
+      "cat"
+    ],
+    [
+      "bird",
+      "dog",
+      "bird",
+      "tiger"
+    ],
+    [
+      "tiger",
+      "cat",
+      "tiger",
+      "dog"
+    ],
+    [
+      "tiger",
+      "cat",
+      "bird",
+      "dog",
+      "bird",
       "dog",
       "tiger"
     ],
     [
+      "dog",
       "cat",
-      "tiger",
-      "cat",
-      "bird",
-      "bird",
-      "tiger",
-      "dog"
+      "tiger"
     ]
   ],
   "query": [
     "tiger",
+    "dog",
     "bird",
-    "bird",
-    "tiger"
+    "bird"
   ],
   "gvsm_ranked_docs": [
-    0.9105375948451211,
-    0.9703789401271556,
-    0.9818119996023558
+    0.9941661959220577,
+    0.9928437122577103,
+    0.9850009559984851,
+    0.9693880843644738,
+    0.9972336519550459,
+    0.9920306876427153,
+    0.9957598196750619,
+    0.9974258937293657,
+    0.993840908281035,
+    0.9928437122577103,
+    0.9780888131347072,
+    0.997406260524469,
+    0.9940911787708694,
+    1.0,
+    0.9884678645576288,
+    0.9975021398885114,
+    0.9865426158427653
   ]
 }

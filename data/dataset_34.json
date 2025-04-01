@@ -1,95 +1,91 @@
 {
   "documents": [
     [
+      "dog",
       "bird",
-      "dog",
-      "dog",
-      "cat",
-      "cat",
-      "tiger",
       "tiger"
     ],
     [
+      "tiger",
       "cat",
       "cat",
       "tiger",
       "bird"
     ],
     [
-      "tiger",
-      "cat",
-      "bird",
       "dog",
+      "cat",
       "tiger"
     ],
     [
+      "bird",
+      "dog",
+      "tiger",
+      "dog",
       "tiger",
       "cat",
+      "bird"
+    ],
+    [
+      "tiger",
+      "tiger",
+      "dog",
+      "cat",
+      "bird",
       "dog"
     ],
     [
       "tiger",
-      "tiger",
-      "cat",
       "dog",
-      "cat",
-      "bird",
-      "dog"
-    ],
-    [
-      "cat",
-      "bird",
-      "cat",
-      "bird"
-    ],
-    [
-      "dog",
-      "tiger",
-      "bird",
       "cat",
       "cat",
       "dog",
       "tiger"
     ],
     [
-      "tiger",
-      "dog",
-      "dog",
-      "bird"
-    ],
-    [
-      "bird",
-      "bird",
       "cat",
+      "tiger",
+      "bird",
+      "bird",
+      "dog",
+      "dog",
       "tiger"
     ],
     [
-      "dog",
       "bird",
-      "bird",
-      "tiger",
       "dog",
       "cat",
+      "cat",
+      "tiger",
+      "tiger",
+      "bird"
+    ],
+    [
+      "tiger",
+      "dog",
+      "bird",
+      "cat",
+      "cat"
+    ],
+    [
+      "tiger",
+      "bird",
       "cat"
     ]
   ],
   "query": [
-    "dog",
-    "tiger",
-    "bird",
-    "bird",
-    "dog"
+    "bird"
   ],
   "gvsm_ranked_docs": [
-    0.9979926879567224,
-    0.9874147605299683,
-    0.9980871389550579,
-    0.9951519858390058,
-    0.9979926879567224,
-    0.9738987103922924,
-    0.9979926879567224,
-    0.9972443251102989,
-    0.9852329196475881,
-    0.9980163500053002
+    0.9606039879194208,
+    0.9367456338769069,
+    0.8817620917873593,
+    0.9554293023912108,
+    0.9297595815263971,
+    0.8817620917873593,
+    0.9554293023912108,
+    0.9573779624017291,
+    0.9328296720947402,
+    0.9646334709577341
   ]
 }

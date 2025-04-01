@@ -1,141 +1,68 @@
 {
   "documents": [
     [
-      "cat",
       "dog",
-      "tiger",
-      "bird",
       "tiger"
     ],
     [
-      "bird",
       "cat",
       "tiger",
-      "tiger",
-      "dog"
-    ],
-    [
       "dog",
-      "tiger",
-      "dog",
-      "bird",
-      "bird",
-      "cat"
-    ],
-    [
-      "tiger",
       "bird"
     ],
     [
-      "tiger",
-      "dog",
       "bird",
-      "tiger",
-      "cat",
       "cat",
       "dog"
     ],
     [
       "tiger",
+      "bird",
+      "cat",
+      "cat",
+      "dog",
       "dog"
     ],
     [
       "cat",
       "dog",
-      "cat",
-      "dog",
-      "tiger",
       "bird",
-      "bird"
-    ],
-    [
-      "cat",
-      "tiger",
-      "dog",
-      "cat",
       "bird",
       "tiger",
-      "bird"
-    ],
-    [
-      "cat",
-      "dog",
-      "bird",
-      "bird",
-      "dog",
       "cat",
       "tiger"
     ],
     [
+      "bird",
       "dog",
       "bird",
-      "tiger",
-      "tiger",
       "cat",
-      "bird"
+      "tiger",
+      "tiger"
     ],
     [
+      "bird",
       "tiger",
-      "dog",
-      "dog",
       "cat"
     ],
     [
+      "tiger",
       "bird",
       "cat",
-      "dog",
-      "tiger",
-      "tiger"
-    ],
-    [
-      "cat",
-      "bird",
-      "tiger",
-      "bird",
-      "dog",
-      "tiger"
-    ],
-    [
-      "cat",
-      "dog",
-      "bird"
-    ],
-    [
-      "bird",
-      "dog",
-      "tiger",
-      "cat",
-      "tiger",
-      "dog",
-      "bird"
-    ],
-    [
-      "bird",
-      "bird",
-      "tiger",
-      "dog",
-      "cat"
+      "dog"
     ]
   ],
   "query": [
-    "bird"
+    "dog"
   ],
   "gvsm_ranked_docs": [
-    0.9976226373450234,
-    0.9976226373450234,
-    0.9976388436079923,
-    0.9990680809199367,
-    0.9969427051156613,
-    0.9945421967320645,
-    0.9976121395902552,
-    0.998284751254953,
-    0.9976121395902552,
-    0.9983495135370283,
-    0.9946873834035862,
-    0.9976226373450234,
-    0.9983495135370283,
-    0.9974532915359213,
-    0.9976470285434287,
-    0.9985027343410329
+    0.9872706837695082,
+    0.9769239118721792,
+    0.9773216375626592,
+    0.9810878776043565,
+    0.969849261985951,
+    0.9720547278692004,
+    0.9590334837376308,
+    0.9769239118721792
   ]
 }

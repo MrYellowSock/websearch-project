@@ -1,65 +1,134 @@
 {
   "documents": [
     [
-      "cat",
-      "tiger",
-      "cat",
-      "bird"
-    ],
-    [
       "dog",
-      "tiger",
+      "dog",
       "cat",
       "bird",
+      "tiger",
+      "tiger",
+      "cat"
+    ],
+    [
       "tiger"
     ],
     [
-      "cat",
-      "cat",
+      "tiger",
+      "dog",
       "bird",
+      "cat",
       "bird",
       "dog"
     ],
     [
-      "bird",
-      "tiger",
-      "tiger",
       "cat",
-      "dog",
       "dog"
     ],
     [
+      "bird",
+      "cat",
       "dog",
+      "bird",
+      "tiger",
+      "dog",
+      "cat"
+    ],
+    [
+      "bird",
+      "cat",
+      "dog",
+      "tiger"
+    ],
+    [
+      "bird",
+      "bird",
+      "tiger",
+      "dog",
+      "cat",
+      "tiger",
+      "cat"
+    ],
+    [
+      "bird",
+      "cat",
+      "tiger",
+      "cat"
+    ],
+    [
       "dog",
       "tiger",
+      "dog",
+      "tiger",
+      "bird",
+      "bird",
+      "cat"
+    ],
+    [
+      "tiger",
+      "dog",
       "cat",
+      "bird",
+      "cat",
+      "tiger",
       "bird"
     ],
     [
+      "dog",
+      "cat",
       "tiger",
       "dog",
-      "bird"
+      "cat",
+      "tiger"
+    ],
+    [
+      "tiger",
+      "cat",
+      "bird",
+      "bird",
+      "cat",
+      "dog",
+      "tiger"
+    ],
+    [
+      "bird",
+      "cat",
+      "cat",
+      "dog"
+    ],
+    [
+      "bird",
+      "dog",
+      "tiger",
+      "cat",
+      "dog"
     ],
     [
       "dog",
-      "cat",
-      "bird",
-      "tiger",
-      "bird",
-      "dog"
+      "bird"
     ]
   ],
   "query": [
+    "tiger",
+    "cat",
     "bird",
-    "cat"
+    "bird",
+    "dog"
   ],
   "gvsm_ranked_docs": [
-    0.995733301749745,
-    0.9689618404226027,
-    0.9966776769024804,
-    0.9627601265637603,
-    0.970216004522028,
-    0.9520582135618576,
-    0.9751761929101124
+    0.9988933201558738,
+    0.9868626139669104,
+    0.9997670950601469,
+    0.9946041091430563,
+    0.9995568920841325,
+    0.9996234298421983,
+    0.9995328563046537,
+    0.9980135701071181,
+    0.9997304028148998,
+    0.9995328563046537,
+    0.9973244269995155,
+    0.9995328563046537,
+    0.9976684592458387,
+    0.999231691555454,
+    0.9976164134869528
   ]
 }

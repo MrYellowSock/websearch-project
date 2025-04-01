@@ -1,147 +1,31 @@
 {
   "documents": [
     [
-      "tiger",
-      "tiger",
       "cat",
-      "dog"
-    ],
-    [
       "bird",
-      "dog",
-      "tiger",
-      "dog"
-    ],
-    [
-      "cat",
-      "tiger",
-      "bird",
-      "bird",
-      "dog"
-    ],
-    [
-      "bird"
-    ],
-    [
-      "bird",
-      "dog",
-      "cat",
       "cat",
       "dog",
       "tiger",
-      "bird"
-    ],
-    [
-      "cat",
-      "dog",
-      "bird",
-      "cat",
-      "tiger"
-    ],
-    [
-      "bird",
-      "tiger",
-      "bird",
-      "tiger",
-      "cat",
-      "cat",
-      "dog"
-    ],
-    [
-      "cat"
-    ],
-    [
-      "tiger",
-      "cat",
-      "bird"
-    ],
-    [
-      "tiger",
-      "cat",
-      "dog"
-    ],
-    [
-      "bird",
-      "dog",
-      "cat",
-      "cat",
-      "tiger"
-    ],
-    [
-      "dog",
-      "tiger",
-      "bird",
-      "bird",
-      "tiger"
-    ],
-    [
-      "bird",
-      "tiger",
-      "dog"
-    ],
-    [
-      "tiger",
-      "cat",
-      "bird",
-      "dog",
-      "cat",
       "dog",
       "bird"
     ],
     [
-      "bird",
-      "tiger",
       "dog",
-      "tiger",
-      "cat",
-      "dog"
-    ],
-    [
+      "bird",
       "bird",
       "tiger",
       "cat",
-      "dog",
-      "dog",
-      "tiger"
-    ],
-    [
       "tiger",
-      "bird",
-      "bird",
-      "tiger",
-      "cat"
-    ],
-    [
-      "bird",
       "cat"
     ]
   ],
   "query": [
     "tiger",
     "dog",
-    "cat",
-    "dog",
-    "tiger",
-    "cat"
+    "bird"
   ],
   "gvsm_ranked_docs": [
-    0.9989864937687032,
-    0.9930077279975275,
-    0.9949035372251541,
-    0.9689321471628336,
-    0.9975171072163963,
-    0.9980993154902064,
-    0.9971152696756408,
-    0.9733259166703975,
-    0.9948518621090304,
-    0.9999999999999999,
-    0.9980993154902064,
-    0.99028154549283,
-    0.9921806405183118,
-    0.9975171072163963,
-    0.9980307766993867,
-    0.9980307766993867,
-    0.9926711160117367,
-    0.9881553935274504
+    0.0,
+    0.0
   ]
 }

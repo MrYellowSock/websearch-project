@@ -1,154 +1,27 @@
 {
   "documents": [
     [
-      "cat",
-      "tiger",
-      "bird",
-      "dog",
-      "tiger",
-      "dog",
-      "cat"
-    ],
-    [
-      "bird",
-      "dog",
-      "tiger",
-      "cat",
-      "tiger",
-      "cat",
-      "dog"
-    ],
-    [
-      "cat",
-      "dog",
-      "bird",
-      "cat",
-      "dog"
-    ],
-    [
-      "tiger",
       "bird",
       "tiger",
-      "dog",
-      "cat"
-    ],
-    [
-      "dog",
-      "tiger",
-      "bird",
-      "bird",
-      "cat"
-    ],
-    [
-      "dog",
-      "tiger",
-      "cat"
-    ],
-    [
-      "dog",
-      "tiger",
-      "tiger",
-      "bird",
-      "cat",
-      "dog",
-      "cat"
-    ],
-    [
-      "bird",
       "dog"
     ],
     [
       "tiger",
       "dog",
-      "tiger",
-      "cat",
-      "cat",
-      "bird",
-      "bird"
-    ],
-    [
-      "bird"
-    ],
-    [
-      "cat",
-      "bird",
-      "dog"
-    ],
-    [
-      "tiger",
       "dog",
-      "cat",
       "tiger",
       "bird",
       "bird",
       "cat"
-    ],
-    [
-      "cat",
-      "tiger",
-      "bird",
-      "dog",
-      "dog",
-      "tiger"
-    ],
-    [
-      "bird",
-      "tiger",
-      "dog",
-      "bird",
-      "cat",
-      "tiger",
-      "cat"
-    ],
-    [
-      "dog",
-      "bird",
-      "cat",
-      "tiger",
-      "cat"
-    ],
-    [
-      "tiger"
-    ],
-    [
-      "cat",
-      "tiger",
-      "tiger",
-      "bird",
-      "cat"
-    ],
-    [
-      "cat",
-      "tiger",
-      "cat",
-      "dog",
-      "tiger",
-      "bird"
     ]
   ],
   "query": [
+    "dog",
     "tiger",
-    "bird",
-    "cat"
+    "bird"
   ],
   "gvsm_ranked_docs": [
-    0.9992770784420603,
-    0.9992770784420603,
-    0.9964235616137381,
-    0.9997743907274388,
-    0.9991831245114272,
-    0.9990464363670037,
-    0.9992770784420603,
-    0.9949075717832554,
-    0.9997772813064352,
-    0.9964443225089809,
-    0.9969145362543401,
-    0.9997772813064352,
-    0.9992408614331296,
-    0.9997772813064352,
-    0.9992495491834792,
-    0.9942120720185827,
-    0.9998568881076799,
-    0.9997619372582651
+    0.0,
+    0.0
   ]
 }

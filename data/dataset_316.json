@@ -1,36 +1,136 @@
 {
   "documents": [
     [
+      "tiger"
+    ],
+    [
+      "cat",
+      "bird",
+      "dog",
+      "cat",
+      "bird",
+      "tiger",
+      "dog"
+    ],
+    [
+      "tiger",
+      "bird",
+      "dog",
+      "cat",
+      "dog",
+      "cat",
+      "bird"
+    ],
+    [
+      "bird",
+      "dog"
+    ],
+    [
+      "tiger",
+      "dog"
+    ],
+    [
+      "tiger",
+      "tiger",
+      "dog",
+      "cat",
+      "dog",
+      "cat"
+    ],
+    [
+      "cat",
+      "tiger",
+      "dog",
+      "bird",
+      "bird",
+      "tiger",
+      "cat"
+    ],
+    [
+      "dog",
+      "cat",
+      "bird",
+      "cat",
+      "tiger",
+      "dog"
+    ],
+    [
+      "tiger",
+      "dog",
+      "cat",
+      "bird",
+      "tiger",
+      "dog",
+      "bird"
+    ],
+    [
+      "dog"
+    ],
+    [
+      "bird",
+      "cat",
+      "bird",
+      "dog",
+      "tiger",
+      "dog",
+      "tiger"
+    ],
+    [
+      "tiger",
+      "cat",
+      "bird"
+    ],
+    [
       "dog",
       "bird",
       "tiger"
     ],
     [
       "cat",
-      "cat",
       "tiger",
+      "dog",
       "bird",
-      "tiger"
+      "dog",
+      "bird",
+      "cat"
+    ],
+    [
+      "bird",
+      "bird",
+      "tiger",
+      "cat",
+      "cat"
     ],
     [
       "dog",
-      "tiger",
+      "cat",
       "bird",
-      "bird"
-    ],
-    [
-      "bird"
+      "cat",
+      "tiger"
     ]
   ],
   "query": [
-    "tiger",
-    "dog",
-    "cat"
+    "bird",
+    "bird",
+    "cat",
+    "tiger"
   ],
   "gvsm_ranked_docs": [
-    0.9091143496487464,
-    0.9719348083279477,
-    0.8979715190173521,
-    0.8528028654224418
+    0.9759106829379318,
+    0.9955200813649174,
+    0.9955200813649174,
+    0.9848287234707707,
+    0.9765142102507873,
+    0.9898792757142029,
+    0.9981564321245016,
+    0.9932951177313057,
+    0.9943901218615269,
+    0.9450047344172046,
+    0.9943901218615269,
+    0.9991794315398027,
+    0.9913617508548768,
+    0.9955200813649174,
+    0.9995129930407102,
+    0.996855388638902
   ]
 }

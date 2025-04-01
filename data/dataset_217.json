@@ -1,102 +1,44 @@
 {
   "documents": [
     [
-      "cat",
-      "bird",
-      "dog"
-    ],
-    [
-      "dog",
-      "bird",
-      "tiger",
-      "cat"
-    ],
-    [
       "tiger",
       "bird",
-      "cat",
-      "tiger",
-      "bird"
-    ],
-    [
-      "cat",
-      "cat",
-      "dog",
-      "dog",
-      "bird",
-      "tiger",
-      "bird"
-    ],
-    [
-      "tiger",
-      "dog",
       "cat",
       "cat"
     ],
     [
-      "bird",
-      "dog",
-      "bird",
       "dog",
       "cat",
-      "cat",
-      "tiger"
-    ],
-    [
-      "cat",
       "dog",
-      "tiger"
-    ],
-    [
-      "cat",
-      "bird"
-    ],
-    [
-      "dog",
-      "bird",
-      "cat",
       "tiger",
-      "bird"
-    ],
-    [
       "bird",
-      "cat",
-      "tiger",
-      "tiger",
-      "cat",
-      "dog"
-    ],
-    [
       "cat"
     ],
     [
-      "cat",
-      "dog",
-      "cat",
+      "bird"
+    ],
+    [
       "tiger",
       "dog",
-      "bird"
+      "bird",
+      "dog",
+      "cat",
+      "bird",
+      "cat"
     ]
   ],
   "query": [
-    "bird",
-    "tiger",
-    "dog",
     "cat",
-    "cat"
+    "tiger",
+    "bird",
+    "cat",
+    "bird",
+    "dog"
   ],
   "gvsm_ranked_docs": [
-    0.9982037867027002,
-    0.999629092858007,
-    0.9954536491129022,
-    0.9994359056335308,
-    0.9982597215424223,
-    0.9994359056335308,
-    0.9983528749467455,
-    0.9962649445333563,
-    0.9978621654810268,
-    0.9995394302595259,
-    0.9942277195671341,
-    0.9996581147757155
+    0.9934710503775138,
+    0.9975291425772037,
+    0.0,
+    0.9975291425772037
   ]
 }

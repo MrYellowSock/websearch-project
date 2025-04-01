@@ -1,128 +1,74 @@
 {
   "documents": [
     [
+      "dog",
       "bird",
       "dog",
-      "cat",
-      "dog",
-      "cat",
       "tiger",
-      "tiger"
-    ],
-    [
-      "cat"
-    ],
-    [
       "tiger",
       "cat"
     ],
     [
-      "tiger"
-    ],
-    [
-      "bird",
-      "dog",
-      "bird",
       "cat",
-      "dog",
-      "cat"
-    ],
-    [
       "dog",
       "tiger",
-      "cat",
-      "bird"
-    ],
-    [
-      "bird"
-    ],
-    [
-      "tiger",
-      "cat",
-      "dog",
-      "cat",
-      "bird"
-    ],
-    [
-      "dog",
       "bird",
-      "cat"
-    ],
-    [
-      "tiger",
-      "bird",
-      "cat",
       "dog"
     ],
     [
       "bird",
       "cat",
-      "tiger"
+      "tiger",
+      "dog",
+      "tiger",
+      "bird"
+    ],
+    [
+      "bird"
     ],
     [
       "tiger",
       "bird",
+      "cat",
+      "dog",
+      "bird",
+      "cat"
+    ],
+    [
+      "tiger",
+      "tiger",
+      "dog",
       "dog",
       "cat",
+      "bird"
+    ],
+    [
+      "cat",
+      "bird",
       "bird",
       "tiger",
       "dog"
     ],
     [
       "cat",
-      "bird",
-      "tiger",
-      "tiger",
-      "dog",
-      "cat"
-    ],
-    [
-      "tiger",
-      "bird",
-      "bird",
-      "cat",
-      "dog",
-      "dog",
-      "tiger"
-    ],
-    [
       "dog",
       "cat",
-      "tiger",
-      "dog",
-      "cat"
-    ],
-    [
-      "cat",
-      "tiger"
-    ],
-    [
-      "dog",
-      "bird",
       "bird",
       "tiger"
     ]
   ],
   "query": [
-    "dog"
+    "bird",
+    "tiger"
   ],
   "gvsm_ranked_docs": [
-    0.9869953588543263,
-    0.9701804905708217,
-    0.9645211046108677,
-    0.9318181441244694,
-    0.9928536551226728,
-    0.9878341279561719,
-    0.9654578800386142,
-    0.9869008851196176,
-    0.9928536551226728,
-    0.9878341279561719,
-    0.9781931433677449,
-    0.9876708112566164,
-    0.9822265044132624,
-    0.9876708112566164,
-    0.989063808853795,
-    0.9645211046108677,
-    0.9845784781575733
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
   ]
 }

@@ -2,126 +2,44 @@
   "documents": [
     [
       "cat",
+      "dog",
+      "bird",
+      "cat",
+      "dog",
+      "tiger",
+      "bird"
+    ],
+    [
+      "dog",
+      "cat",
+      "dog",
       "tiger",
       "bird",
+      "tiger",
+      "bird"
+    ],
+    [
       "dog",
+      "cat",
       "dog",
+      "tiger"
+    ],
+    [
+      "tiger",
       "cat"
-    ],
-    [
-      "tiger",
-      "cat",
-      "dog",
-      "tiger",
-      "bird"
-    ],
-    [
-      "dog",
-      "dog",
-      "tiger",
-      "cat",
-      "cat",
-      "tiger",
-      "bird"
-    ],
-    [
-      "cat",
-      "bird",
-      "bird",
-      "tiger",
-      "tiger"
-    ],
-    [
-      "cat",
-      "cat",
-      "dog",
-      "bird"
-    ],
-    [
-      "dog",
-      "cat",
-      "bird"
-    ],
-    [
-      "tiger",
-      "cat",
-      "bird",
-      "tiger",
-      "dog",
-      "cat",
-      "dog"
-    ],
-    [
-      "dog",
-      "bird",
-      "dog",
-      "cat",
-      "bird",
-      "tiger"
-    ],
-    [
-      "tiger",
-      "cat",
-      "tiger",
-      "bird"
-    ],
-    [
-      "bird",
-      "tiger",
-      "cat",
-      "dog",
-      "cat"
-    ],
-    [
-      "dog"
-    ],
-    [
-      "cat",
-      "bird",
-      "tiger"
-    ],
-    [
-      "bird"
-    ],
-    [
-      "cat",
-      "cat",
-      "bird",
-      "tiger"
-    ],
-    [
-      "cat",
-      "tiger",
-      "dog"
-    ],
-    [
-      "tiger",
-      "bird",
-      "dog"
     ]
   ],
   "query": [
     "bird",
     "dog",
     "bird",
-    "dog"
+    "dog",
+    "cat"
   ],
   "gvsm_ranked_docs": [
-    0.9963943128582781,
-    0.9846829038008016,
-    0.9930140985156175,
-    0.9615352617905515,
-    0.994352406716006,
-    0.9974544477180601,
-    0.9930140985156175,
-    0.9962193390613002,
-    0.9614712826927785,
-    0.9902273996642794,
-    0.9514812635276493,
-    0.9668115039958715,
-    0.9514812635276493,
-    0.9720394371738637,
-    0.9931424930157762,
-    0.9922474610087049
+    1.0,
+    1.0,
+    0.9732489894677302,
+    0.0
   ]
 }

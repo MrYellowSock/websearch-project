@@ -1,121 +1,109 @@
 {
   "documents": [
     [
-      "tiger",
       "dog",
-      "dog",
-      "cat",
       "tiger",
-      "cat"
-    ],
-    [
-      "tiger",
-      "dog",
-      "cat",
       "bird",
-      "cat"
+      "cat",
+      "cat",
+      "dog"
     ],
     [
-      "tiger",
+      "bird",
+      "bird",
+      "cat",
       "dog",
       "tiger",
-      "cat",
-      "bird"
-    ],
-    [
-      "cat",
       "tiger"
     ],
     [
-      "cat",
-      "dog",
-      "cat",
-      "bird",
-      "bird",
       "tiger",
-      "dog"
+      "bird"
     ],
     [
       "tiger",
       "dog",
+      "tiger",
+      "dog"
+    ],
+    [
+      "dog",
+      "tiger",
+      "bird",
+      "tiger",
+      "cat",
+      "dog"
+    ],
+    [
+      "cat",
+      "tiger",
+      "bird",
+      "bird",
+      "cat",
+      "dog"
+    ],
+    [
       "cat"
     ],
     [
       "cat",
       "bird",
-      "tiger",
-      "dog",
-      "tiger",
-      "dog"
-    ],
-    [
-      "tiger",
-      "bird",
-      "dog"
-    ],
-    [
-      "tiger",
-      "bird",
-      "dog",
-      "dog",
-      "tiger",
-      "cat"
-    ],
-    [
-      "cat",
       "cat",
       "dog",
-      "bird",
-      "dog",
-      "bird"
-    ],
-    [
-      "cat",
-      "tiger",
-      "tiger",
-      "bird",
-      "dog",
-      "cat",
-      "dog"
-    ],
-    [
-      "bird",
-      "cat",
-      "dog"
-    ],
-    [
-      "cat",
-      "dog",
-      "tiger",
-      "cat",
-      "tiger",
-      "bird"
-    ],
-    [
       "tiger"
+    ],
+    [
+      "bird",
+      "dog",
+      "dog",
+      "tiger",
+      "cat",
+      "cat",
+      "bird"
+    ],
+    [
+      "bird",
+      "dog",
+      "cat"
+    ],
+    [
+      "tiger",
+      "bird",
+      "dog",
+      "tiger",
+      "bird",
+      "dog"
+    ],
+    [
+      "tiger",
+      "cat",
+      "bird",
+      "bird",
+      "tiger",
+      "dog",
+      "cat"
     ]
   ],
   "query": [
-    "dog",
+    "bird",
     "tiger",
-    "dog",
     "cat",
-    "bird"
+    "cat",
+    "tiger",
+    "dog"
   ],
   "gvsm_ranked_docs": [
-    0.9968717097526207,
-    0.9997060121850604,
-    0.9983905322742466,
-    0.9921125062969136,
-    0.9994844281955368,
-    0.9968717097526207,
-    0.9991738399452906,
-    0.9988229678387043,
-    0.9991738399452906,
-    0.9972696060629993,
-    0.9993523884755906,
-    0.9972696060629993,
-    0.9988724133601871,
-    0.9707764419723158
+    0.9989724650438698,
+    0.9987538099601656,
+    0.992321363653474,
+    0.9914731237706823,
+    0.9985754763253163,
+    0.9990468411464237,
+    0.9762896067911376,
+    0.9991946915161826,
+    0.9990790472290808,
+    0.9970078592277855,
+    0.9956456947096405,
+    0.9997415043339883
   ]
 }

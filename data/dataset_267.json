@@ -1,60 +1,162 @@
 {
   "documents": [
     [
-      "tiger",
+      "bird",
       "cat"
     ],
     [
+      "cat",
+      "dog",
+      "tiger",
+      "cat",
+      "bird",
+      "dog",
+      "tiger"
+    ],
+    [
+      "bird",
+      "dog",
+      "cat",
       "cat"
     ],
     [
-      "tiger",
-      "dog",
-      "dog",
       "bird",
       "cat",
       "cat",
-      "tiger"
+      "dog",
+      "tiger",
+      "dog"
     ],
     [
       "cat",
+      "bird",
       "dog",
       "cat",
+      "bird"
+    ],
+    [
+      "cat",
+      "tiger",
       "dog",
+      "dog",
+      "cat",
+      "bird"
+    ],
+    [
+      "tiger",
+      "bird",
+      "cat",
+      "dog",
+      "cat"
+    ],
+    [
+      "dog"
+    ],
+    [
+      "bird"
+    ],
+    [
+      "cat",
+      "bird",
+      "dog",
+      "tiger",
       "tiger"
     ],
     [
+      "bird",
+      "tiger",
+      "cat",
+      "tiger",
+      "dog",
+      "bird",
+      "cat"
+    ],
+    [
+      "bird",
+      "dog",
+      "tiger",
+      "dog",
+      "tiger",
+      "bird",
+      "cat"
+    ],
+    [
+      "cat",
       "bird",
       "dog"
     ],
     [
-      "bird",
-      "bird",
-      "dog",
+      "tiger",
       "cat",
+      "cat",
+      "bird",
       "dog",
-      "tiger"
+      "dog",
+      "bird"
     ],
     [
+      "cat",
+      "cat",
       "bird",
       "tiger",
-      "cat"
+      "tiger",
+      "dog"
+    ],
+    [
+      "cat",
+      "tiger",
+      "cat",
+      "dog",
+      "bird",
+      "tiger",
+      "bird"
+    ],
+    [
+      "cat",
+      "dog",
+      "bird",
+      "tiger",
+      "bird",
+      "tiger",
+      "dog"
+    ],
+    [
+      "tiger",
+      "dog",
+      "bird"
+    ],
+    [
+      "cat",
+      "tiger",
+      "tiger",
+      "bird",
+      "dog"
     ]
   ],
   "query": [
-    "dog",
-    "tiger",
-    "tiger",
     "bird",
-    "cat"
+    "cat",
+    "tiger"
   ],
   "gvsm_ranked_docs": [
-    0.9795075532119059,
-    0.9445923016782052,
-    0.9979125065287902,
-    0.9864106010442493,
-    0.9628522719249943,
-    0.9930312916948023,
-    0.9966970725253048
+    0.9945651754639737,
+    0.9989233007170949,
+    0.9963102279381143,
+    0.9986738721007894,
+    0.9962931298814617,
+    0.9986738721007894,
+    0.9992747140278023,
+    0.9901184891724851,
+    0.9913103375490709,
+    0.9986198671204759,
+    0.9997942758541938,
+    0.998983319176444,
+    0.9967184450070026,
+    0.998825361954138,
+    0.9994229358333789,
+    0.9997942758541938,
+    0.998983319176444,
+    0.9978755640327398,
+    0.9986198671204759
   ]
 }

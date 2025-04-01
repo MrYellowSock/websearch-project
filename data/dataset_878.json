@@ -1,83 +1,126 @@
 {
   "documents": [
     [
+      "bird",
+      "bird",
+      "cat",
+      "tiger",
+      "tiger",
+      "cat",
+      "dog"
+    ],
+    [
+      "tiger",
+      "cat",
+      "tiger",
+      "cat",
+      "bird",
+      "dog",
+      "dog"
+    ],
+    [
+      "dog",
+      "tiger",
+      "cat",
+      "cat",
+      "bird",
+      "bird",
+      "dog"
+    ],
+    [
+      "bird",
+      "bird",
+      "dog",
+      "cat",
+      "tiger",
+      "tiger"
+    ],
+    [
+      "tiger",
+      "tiger",
+      "cat",
+      "bird",
+      "bird",
+      "cat",
+      "dog"
+    ],
+    [
+      "cat",
+      "dog",
+      "dog",
+      "cat",
+      "tiger"
+    ],
+    [
+      "cat",
+      "tiger",
+      "bird",
       "tiger",
       "dog",
+      "bird",
+      "dog"
+    ],
+    [
+      "tiger",
+      "tiger",
+      "cat",
+      "cat",
+      "bird",
+      "dog"
+    ],
+    [
+      "tiger",
+      "dog",
+      "tiger",
+      "cat",
+      "bird"
+    ],
+    [
+      "tiger",
+      "bird",
+      "dog",
+      "bird",
+      "cat",
+      "cat",
+      "dog"
+    ],
+    [
       "cat",
       "dog",
       "bird"
     ],
     [
       "dog",
+      "dog",
+      "bird",
+      "bird"
+    ],
+    [
+      "dog",
       "tiger",
-      "bird",
-      "cat",
-      "cat",
-      "tiger"
-    ],
-    [
-      "dog"
-    ],
-    [
-      "dog",
-      "cat",
-      "bird",
-      "tiger"
-    ],
-    [
-      "dog",
       "bird",
       "cat"
-    ],
-    [
-      "bird",
-      "tiger",
-      "dog",
-      "cat",
-      "bird",
-      "cat"
-    ],
-    [
-      "tiger",
-      "bird",
-      "cat",
-      "dog",
-      "dog"
-    ],
-    [
-      "dog",
-      "bird",
-      "bird",
-      "tiger",
-      "dog"
-    ],
-    [
-      "cat",
-      "tiger",
-      "cat",
-      "tiger",
-      "bird",
-      "bird",
-      "dog"
     ]
   ],
   "query": [
     "cat",
-    "tiger",
     "cat",
-    "dog",
-    "dog",
-    "bird"
+    "tiger",
+    "dog"
   ],
   "gvsm_ranked_docs": [
-    0.9995566789404857,
-    0.9993922958982924,
-    0.9914769835174858,
-    0.999851604227718,
-    0.9995908761404995,
-    0.9997977437404947,
-    0.9995566789404857,
-    0.9969855589849584,
-    0.9996341581864571
+    0.9984969139626129,
+    0.9993269035182902,
+    0.9980571387188957,
+    0.9976071944514721,
+    0.9984969139626129,
+    1.0000000000000002,
+    0.9976071944514721,
+    0.9993269035182902,
+    0.9986191488229138,
+    0.9980571387188957,
+    0.9968289015078037,
+    0.9878939569346656,
+    0.9984969139626129
   ]
 }
