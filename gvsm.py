@@ -46,17 +46,17 @@ def perform_gvsm(documents_dict: dict, query: list) -> pd.DataFrame:
 
     # idf
     idf_documents = (freq_documents > 0).sum(axis=0)
-    print("N",N)
+    # print("N",N)
     idf_query = idf_documents.apply(lambda x:0 if x<=0 else np.log10(N / x))
-    print("idf_documents\n",idf_documents)
-    print("idf_query\n",idf_query)
+    # print("idf_documents\n",idf_documents)
+    # print("idf_query\n",idf_query)
 
     # Smooth query
     max_freq_query = freq_query.max(axis=1).values[0]
     tf_query = freq_query.copy()
     tf_query[freq_query != 0] = 0.5 + (0.5 * freq_query[freq_query != 0] / max_freq_query)
     tf_idf_query = tf_query * idf_query
-    print("tf_idf_query\n",tf_idf_query)
+    # print("tf_idf_query\n",tf_idf_query)
 
     # Tfidf the documents
     maxfreq_by_documents = freq_documents.max(axis=1)
@@ -64,20 +64,20 @@ def perform_gvsm(documents_dict: dict, query: list) -> pd.DataFrame:
     for term in tf_idf_documents.columns:
         for index in tf_idf_documents.index:
             tf_idf_documents.loc[index, term] = tf_idf_documents.loc[index, term]/maxfreq_by_documents[index] * idf_query[term]
-    print("doc_tf_idf\n",tf_idf_documents)
+    # print("doc_tf_idf\n",tf_idf_documents)
     
 
     # Step 2: Binarize and group documents by minterms
     bin_freq = binarize_frequencies(freq_documents)
-    print("bin_freq\n",bin_freq)
+    # print("bin_freq\n",bin_freq)
     doc_to_minterm, unique_minterms = assign_minterms(bin_freq)
-    print("doc_to_minterm\n",doc_to_minterm)
+    # print("doc_to_minterm\n",doc_to_minterm)
 
     # Step 3: Build term-minterm matrix
     C = build_term_minterm_matrix(tf_idf_documents, doc_to_minterm)
-    print("C",C)
+    # print("C",C)
     K = normalize_rows(C)
-    print("K",K)
+    # print("K",K)
 
     # Step 4: Project documents and query into minterm space
     doc_minterm_space = freq_documents.values @ K.values
